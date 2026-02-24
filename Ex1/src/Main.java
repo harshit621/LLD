@@ -10,7 +10,7 @@ void main() {
 
     String raw = "name=Riya;email=riya@sst.edu;phone=9876543210;program=CSE";
 
-    // program validation -> its throw error
+    // program validation -> it throws error
     String raw1 = "name=Aarav;email=aarav@sst.edu;phone=9876439022;program=IAS"; 
 
     svc.registerFromRawInput(raw);
@@ -20,3 +20,4 @@ void main() {
     System.out.println("-- DB DUMP --");
     System.out.print(TextTable.render3(repo));
 }
+
