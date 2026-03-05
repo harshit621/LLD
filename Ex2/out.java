@@ -1,0 +1,22 @@
+public class out {
+//     === Cafeteria Billing ===
+// Invoice# INV-1001
+// - Veg Thali x2 = 160.00
+// - Coffee x1 = 30.00
+// Subtotal: 190.00
+// Tax(5%): 9.50
+// Discount: -10.00
+// TOTAL: 189.50
+// Saved invoice: INV-1001 (lines=7)
+    
+
+// === Cafeteria Billing ===
+// Invoice# INV-1001
+// - Veg Thali x2 = 160.00
+// - Coffee x1 = 30.00
+// Subtotal: 190.00
+// Tax(5%): 9.50
+// Discount: -10.00
+// TOTAL: 189.50
+// Saved invoice: INV-1001 (lines=7)
+}
